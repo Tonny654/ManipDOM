@@ -12,6 +12,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-image: url(./Assets/img/BG/wallpaperflare.com_wallpaper\ \(1\).jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .slider {
